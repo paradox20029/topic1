@@ -1,5 +1,5 @@
 body {
-    background-color: lightblue;
+    background-color: green;
     }
     
     h1 {
@@ -10,4 +10,42 @@ body {
     p {
     font-family: verdana;
     font-size: 20px;
+    }
+    .iot-applications{
+        color:yellow;
+        background-color:orange;
+    }
+    .smart-buildings{
+        color:red;
+        background-color:purple;
+    }
+    .control-interface{
+        color:blue;
+        background-color: chocolate;
+    }
+    .main-feauters{
+        color:purple;
+        background-color: red;
+        width:180px;
+    }
+    .smart-meaning{
+        color:red;
+        background-color: purple;
+        width:180px;
+    }
+    .scenarious{
+        color:rgb(197, 124, 124);
+        background-color: rgb(53, 3, 53);
+        width:180px;
+    }
+    .users{
+        color:rgb(76, 28, 189);
+        background-color: rgb(154, 129, 110);
+        width:100px;
+    }
+    p{
+        color:yellow;
+    }
+    ul{
+        color:rgb(8, 223, 176);
     }
